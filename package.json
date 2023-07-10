@@ -1,0 +1,24 @@
+{
+  "name": "forkallissue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dltpals222/forkAllIssue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dltpals222/forkAllIssue/issues"
+  },
+  "homepage": "https://github.com/dltpals222/forkAllIssue#readme",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "inquirer": "^9.2.7"
+  }
+}
