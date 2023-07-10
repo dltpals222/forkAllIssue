@@ -19,6 +19,8 @@
   "homepage": "https://github.com/dltpals222/forkAllIssue#readme",
   "dependencies": {
     "commander": "^11.0.0",
-    "inquirer": "^9.2.7"
+    "inquirer": "^9.2.7",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
   }
 }
