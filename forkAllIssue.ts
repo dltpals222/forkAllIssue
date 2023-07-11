@@ -1,6 +1,4 @@
-import { program } from "commander";
 import inquirer from "inquirer";
-import { execSync } from "child_process";
 
 // const questionsNewDirectory = [
 //   {
