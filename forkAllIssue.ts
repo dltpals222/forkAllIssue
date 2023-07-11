@@ -35,6 +35,12 @@ const questionsGitAddress = [
   },
 ];
 
-inquirer.prompt(questionsGitAddress).then((answers: string) => {
-  console.log("일단 보자", answers);
-});
+// inquirer.prompt(questionsGitAddress).then((answers: string) => {
+//   console.log("일단 보자", answers);
+// });
+
+(async () => {
+  inquirer.prompt(questionsGitAddress).then((answers: string) => {
+    console.log("일단 보자", answers);
+  });
+})();
